@@ -7,11 +7,27 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node App.js"
   },
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Divyadharsh/kanbas-node-server-app.git"
+  },
+  "keywords": [
+    "Node",
+    "REST",
+    "Server",
+    "HTTP",
+    "Web",
+    "Development",
+    "CS5610"
+  ],
+  "author": "Divyadharshini",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Divyadharsh/kanbas-node-server-app/issues"
+  },
+  "homepage": "https://github.com/Divyadharsh/kanbas-node-server-app#readme",
   "description": "",
   "dependencies": {
-    "cors": "^2.8.5",
     "express": "^4.19.2"
   }
 }
